@@ -6,12 +6,12 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 
 ## 🌐 Socials:
 
-<div style="display: flex; gap: 20px; font-size: 20px;">
+<div style="display: flex; gap: 15px; font-size: 15px;">
   <a href="https://linkedin.com/in/ramam-agarwal-51363716b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
   <a href="mailto:ramamagarwal1234@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="40"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="35"/>
   </a>
 </div>
 
