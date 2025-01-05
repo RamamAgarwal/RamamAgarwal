@@ -11,26 +11,6 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 ---
 
 ## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
-## 🛠️ Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="30"/>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" height="30"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"/>
-<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" height="30"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="30"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" height="30"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
-
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
