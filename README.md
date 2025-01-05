@@ -23,9 +23,9 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 ---
 
 ## 📊 GitHub Stats:
-![Ramam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramam-agarwal&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ramam-agarwal&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramam-agarwal&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=RamamAgarwal&theme=radical&hide_border=true)
 
 ---
 
