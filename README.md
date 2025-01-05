@@ -37,7 +37,7 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
   Enhancing transparency and reducing inefficiencies in Punjab’s farming sector.
 
 - **🤖 Robotics and Autonomous Systems**  
-  Built a line-following robot and implementing Bayes' Filter for mapping.
+  Built a line-following robot and implementing Bayes' Filter for mapping and localization.
 
 ---
 
