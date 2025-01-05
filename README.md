@@ -5,7 +5,7 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ramam-agarwal-51363716b/]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramam-agarwal-51363716b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramamagarwal1234@gmail.com)
 
 ---
