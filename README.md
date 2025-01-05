@@ -29,28 +29,4 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 
 ---
 
-## 🚀 Featured Projects:
-- **🔍 Accessibility Research**  
-  Improving inclusivity in Chandigarh through urban accessibility studies.
-
-- **🌾 Agricultural Supply Chain Optimization**  
-  Enhancing transparency and reducing inefficiencies in Punjab’s farming sector.
-
-- **🤖 Robotics and Autonomous Systems**  
-  Built a line-following robot and implementing Bayes' Filter for mapping and localization.
-
----
-
-## 🏆 Certifications:
-- **HackerRank and CodeChef Problem Solving Certified**
-- **Data Analytics Specialist**
----
-
-## 📅 Contributions:
-- ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=ramam-agarwal&limit=5&theme=radical)
-- **Longest Streak:** `25 days`
-- **Current Streak:** `0`
-
----
-
 ✨ Let’s collaborate to create something impactful! Feel free to reach out!
