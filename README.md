@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramam Agarwal
 
-Aspiring innovator exploring the intersection of **technology** and **social impact**. Passionate about making the world more accessible and sustainable through **data science**, **robotics**, and **interdisciplinary problem-solving**.
+Aspiring innovator exploring the intersection of **technology** and **social impact**. Passionate about making the world more accessible and sustainable through **data science**, **robotics**, and **problem-solving**.
 
 ---
 
@@ -19,7 +19,6 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![TOF Sensors](https://img.shields.io/badge/Sensors-0078D7?logo=sensors&logoColor=white)
 
 ---
 
