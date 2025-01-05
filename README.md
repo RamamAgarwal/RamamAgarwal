@@ -13,9 +13,22 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
   <a href="mailto:ramamagarwal1234@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
+  <a href="https://www.hackerrank.com/2215001426_Ramam" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" height="30"/>
+  </a>
+  <a href="https://www.codechef.com/users/ramam123" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" alt="CodeChef" height="30"/>
+  </a>
+  <a href="https://leetcode.com/Ramam_Agarwal/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
+  </a>
+  <a href="https://codeforces.com/profile/ramamagarwal1234" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces" height="30"/>
+  </a>
 </div>
 
 ---
+
 
 ## 🛠️ Tech Stack:
 
@@ -53,15 +66,5 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical" alt="Top Languages" width="500"/>
 
 <img src="https://streak-stats.demolab.com?user=RamamAgarwal&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
-
-</div>
-
-## 🌟 Top Contributed Repositories:
-
-<div style="font-size: 20px;">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RamamAgarwal&repo=Mathematical-Simulation-Projects&theme=radical" alt="Mathematical-Simulation-Projects" width="500"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RamamAgarwal&repo=DataScienceProjects&theme=radical" alt="DataScienceProjects" width="500"/>
 
 </div>
