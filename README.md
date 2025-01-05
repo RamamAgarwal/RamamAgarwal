@@ -60,7 +60,7 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 
 <div style="font-size: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RamamAgarwal&repo=MathematicalSimulationProjects&theme=radical" alt="MathematicalSimulationProjects" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RamamAgarwal&repo=Mathematical-Simulation-Projects&theme=radical" alt="Mathematical-Simulation-Projects" width="500"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamamAgarwal&repo=DataScienceProjects&theme=radical" alt="DataScienceProjects" width="500"/>
 
