@@ -19,6 +19,16 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+<span style="font-size: 18px; font-weight: bold;">🚀 HTML5</span>  
+<span style="font-size: 18px; font-weight: bold;">💻 CSS3</span>  
+<span style="font-size: 18px; font-weight: bold;">🔗 JavaScript</span>  
+<span style="font-size: 18px; font-weight: bold;">🌟 React.js</span>  
+<span style="font-size: 18px; font-weight: bold;">📊 MySQL</span>  
+
+</div>
+
 
 ---
 
