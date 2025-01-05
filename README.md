@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramam
 
-I'm an Aspiring innovator exploring the intersection of **technology** and **social impact**. Passionate about making the world more accessible and sustainable through **artificial intelligence**, **machine learning**, and **problem-solving**.
+An Aspiring innovator exploring the intersection of **technology** and **social impact** having a passion for data-driven solutions. Passionate about making the world more accessible and sustainable through **artificial intelligence**, **machine learning**, and **problem-solving**.
 
 ---
 
