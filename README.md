@@ -56,4 +56,12 @@ Aspiring innovator exploring the intersection of **technology** and **social imp
 
 </div>
 
----
+## 🌟 Top Contributed Repositories:
+
+<div style="font-size: 20px;">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RamamAgarwal&repo=MathematicalSimulationProjects&theme=radical" alt="Top Repository 1" width="500"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RamamAgarwal&repo=DataScienceProjects&theme=radical" alt="Top Repository 2" width="500"/>
+
+</div>
