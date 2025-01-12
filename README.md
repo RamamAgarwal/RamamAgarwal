@@ -59,15 +59,14 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-   <!-- GitHub Stats -->
-   <img src="https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-   
-   <!-- GitHub Streak -->
-   <img src="https://streak-stats.demolab.com?user=RamamAgarwal&theme=radical&hide_border=true" alt="GitHub Streak" width="450"/>
-   
-   <!-- Top Languages -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical" alt="Top Languages" width="450"/>
+<div style="font-size: 20px;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=radical" alt="GitHub Stats" width="600"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical" alt="Top Languages" width="500"/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RamamAgarwal" alt="GitHub Streak" /></a>
+
 </div>
 
 
