@@ -65,7 +65,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical" alt="Top Languages" width="500"/>
 
-<img src="https://streak-stats.demolab.com/?user=RamamAgarwal&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
+<img src="https://streak-stats.demolab.com?user=RamamAgarwal&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
 
 </div>
 
