@@ -61,13 +61,10 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 <div style="font-size: 20px;">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=radical" alt="GitHub Stats" width="600"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical" alt="Top Languages" width="500"/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=RamamAgarwal&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" width="600"/>
+<img src="https://streak-stats.demolab.com?user=RamamAgarwal&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
 
 </div>
