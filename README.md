@@ -46,7 +46,6 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 <img src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white" alt="Powershell" height="30"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" alt="Canva" height="30"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="30"/>
 <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white" alt="Windows Terminal" height="30"/>
