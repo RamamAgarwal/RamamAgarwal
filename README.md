@@ -29,7 +29,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RamamAgarwal&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamamAgarwal&theme=github)
 
 ## 🛠️ Tech Stack:
 
