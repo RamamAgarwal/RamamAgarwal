@@ -4,6 +4,13 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ---
 
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&lines=A+Passionate+FullStack+Developer+from+India" alt="Typing SVG" />
+    </a>
+</h3>
+
+
 ## 🌐 Socials:
 
 <div style="display: flex; gap: 15px; font-size: 15px;">
