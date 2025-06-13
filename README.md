@@ -6,10 +6,16 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&lines=A+Passionate+FullStack+Developer+from+India" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&lines=A+Passionate+FullStack+Developer" alt="Typing SVG" />
     </a>
 </h3>
 
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ramamagarwal" alt="ramamagarwal" />
+    </a> 
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashibapaics22&label=Profile%20views&color=0e75b6&style=flat" alt="ramamagarwal" /> </p>
 
 ## 🌐 Socials:
 
