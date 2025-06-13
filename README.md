@@ -15,7 +15,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
         <img src="https://github-profile-trophy.vercel.app/?username=ramamagarwal" alt="ramamagarwal" />
     </a> 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashibapaics22&label=Profile%20views&color=0e75b6&style=flat" alt="ramamagarwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramamagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="ramamagarwal" /> </p>
 
 ## 🌐 Socials:
 
