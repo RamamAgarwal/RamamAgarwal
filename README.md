@@ -37,7 +37,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamamAgarwal&theme=github)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamamAgarwal&theme=tokyo-night&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" width="100%"/>
 
 ## 🛠️ Tech Stack:
 
@@ -83,8 +83,6 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical" alt="Top Languages" width="500"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamamAgarwal&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamamAgarwal&theme=tokyo-night&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" width="100%"/>
 
 </div>
 
