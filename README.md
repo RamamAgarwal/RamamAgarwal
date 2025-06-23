@@ -84,10 +84,4 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamamAgarwal&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
 
-</div>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ramamagarwal" alt="ramamagarwal" />
-    </a> 
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ramamagarwal" alt="ramamagarwal" />
