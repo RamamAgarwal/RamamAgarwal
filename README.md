@@ -76,7 +76,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&show=true&theme=radical" alt="GitHub Stats" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&show=true&theme=gradient" alt="GitHub Stats" width="600"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=radical" alt="Top Languages" width="500"/>
 
@@ -86,4 +86,3 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 [![Ramam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamamAgarwal)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
