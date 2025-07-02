@@ -76,7 +76,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ## 📊 GitHub Stats:
 
-<div style="font-size: 20px;">
+<div style="font-size: 10px;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=radical" alt="GitHub Stats" width="600"/>
 
