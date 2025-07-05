@@ -37,7 +37,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamamAgarwal&theme=github-dark&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamamAgarwal&theme=tokyo-green&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" width="100%"/>
 
 ## 🛠️ Tech Stack:
 
