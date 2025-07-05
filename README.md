@@ -18,7 +18,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
   <a href="https://linkedin.com/in/ramam-agarwal-51363716b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="mailto:ramamagarwal1234@gmail.com" target="_blank">
+  <a href="mailto:ramamagarwal12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
   <a href="https://www.hackerrank.com/2215001426_Ramam" target="_blank">
