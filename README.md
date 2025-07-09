@@ -10,7 +10,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
     </a>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramamagarwal&base=5255&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ramamagarwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramamagarwal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ramamagarwal" /> </p>
 
 ## 🌐 Socials:
 
