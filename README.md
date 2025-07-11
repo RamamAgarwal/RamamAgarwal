@@ -16,22 +16,22 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 <div style="display: flex; gap: 15px; font-size: 15px;">
   <a href="https://linkedin.com/in/ramam-agarwal-51363716b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
   </a>
   <a href="mailto:ramamagarwal12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="45"/>
   </a>
   <a href="https://www.hackerrank.com/2215001426_Ramam" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" height="30"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" height="45"/>
   </a>
   <a href="https://www.codechef.com/users/ramam123" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" alt="CodeChef" height="30"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" alt="CodeChef" height="45"/>
   </a>
   <a href="https://leetcode.com/Ramam_Agarwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" height="45"/>
   </a>
   <a href="https://codeforces.com/profile/ramamagarwal1234" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces" height="30"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces" height="45"/>
   </a>
 </div>
 
