@@ -81,4 +81,4 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamamAgarwal&theme=gradient&hide_border=true" alt="GitHub Streak" width="600"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamamAgarwal&theme=github-dark)
+![](https://github-readme-stats.vercel.app/api?username=RamamAgarwal&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
