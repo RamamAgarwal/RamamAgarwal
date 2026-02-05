@@ -83,3 +83,5 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ![](https://github-readme-stats-fast.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=blue-green)
 
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharpsalt&layout=compact&theme=blue-green)
+
