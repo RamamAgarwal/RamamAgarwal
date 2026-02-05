@@ -75,7 +75,7 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 
 ## 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com?user=RamamAgarwal&theme=blue-green&hide_border=true&mode=weekly)
+![](https://streak-stats.demolab.com?user=RamamAgarwal&theme=blue-green&hide_border=true)
 
 ![](https://github-readme-stats-fast.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=blue-green)
 
