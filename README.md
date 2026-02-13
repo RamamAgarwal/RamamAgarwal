@@ -61,7 +61,6 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" height="30"/>
 <img src="https://img.shields.io/badge/SciPy-8A9B7E?logo=scipy&logoColor=white" alt="SciPy" height="30"/>
 <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="30"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" height="30"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="30"/>
