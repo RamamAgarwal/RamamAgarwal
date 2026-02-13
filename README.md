@@ -43,20 +43,13 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="30"/>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" height="30"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"/>
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="30"/>
 <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" height="30"/>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="30"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" height="30"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
-<img src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white" alt="Powershell" height="30"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" alt="Canva" height="30"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="30"/>
-<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white" alt="Windows Terminal" height="30"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" height="30"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" height="30"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" alt="Anaconda" height="30"/>
@@ -65,9 +58,16 @@ An Aspiring innovator exploring the intersection of **technology** and **social 
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="30"/>
 <img src="https://img.shields.io/badge/Plotly-3C4D8A?logo=plotly&logoColor=white" alt="Plotly" height="30"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="30"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" height="30"/>
 <img src="https://img.shields.io/badge/SciPy-8A9B7E?logo=scipy&logoColor=white" alt="SciPy" height="30"/>
+<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="30"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" height="30"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="30"/>
+<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" alt="Keras" height="30"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="30"/>
+<img src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white" alt="Gitea" height="30"/>
 
 </div>
 
