@@ -7,6 +7,12 @@
     </a>
 </h3>
 
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=I+build+and+deploy+ML+systems" alt="Typing SVG" />
+    </a>
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramamagarwal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ramamagarwal" /> </p>
 
 ## 🌐 Socials:
