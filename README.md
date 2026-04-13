@@ -1,7 +1,11 @@
-# Hi 👋, I'm Ramam
+<!-- Custom header -->
+![header](https://capsule-render.vercel.app/api?type=venom&height=260&text=Ramam%20Agarwal&fontAlign=50&fontAlignY=40&color=0:ff7e5f,100:feb47b&fontColor=ffffff&desc=ML%20Engineer%20%7C%20AI%20Systems%20%7C%20GenAI%20Builder&descAlign=50&descAlignY=65)
 
-An Aspiring innovator exploring the intersection of **technology** and **social impact** having a passion for data-driven solutions. Passionate about making the world more accessible and sustainable through **artificial intelligence**, **machine learning**, and **problem-solving**.
-
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&lines=Building+end-to-end+ML+pipelines;Working+with+LLMs%2C+RAG+%26+AI+Agents;MLOps%3A+Automation%2C+Deployment%2C+Monitoring;Always+learning+something+new+🚀">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&lines=Building+end-to-end+ML+pipelines;Working+with+LLMs%2C+RAG+%26+AI+Agents;MLOps%3A+Automation%2C+Deployment%2C+Monitoring;Always+learning+something+new+🚀" alt="Typing animation" />
+  </a>
+</p>
 ---
 <h3 align="center">
     <a href="https://git.io/typing-svg">
