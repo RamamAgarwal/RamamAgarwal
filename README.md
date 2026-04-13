@@ -1,5 +1,5 @@
 <!-- Custom header -->
-![header](https://capsule-render.vercel.app/api?type=rect&height=260&text=Ramam%20Agarwal&fontAlign=50&fontAlignY=40&color=0:ff7e5f,100:feb47b&fontColor=ffffff&desc=ML%20Engineer%20%7C%20AI%20Systems%20%7C%20GenAI%20Builder&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waver&height=260&text=Ramam%20Agarwal&fontAlign=50&fontAlignY=40&color=0:ff7e5f,100:feb47b&fontColor=ffffff&desc=ML%20Engineer%20%7C%20AI%20Systems%20%7C%20GenAI%20Builder&descAlign=50&descAlignY=65)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramamagarwal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ramamagarwal" /> </p>
 
