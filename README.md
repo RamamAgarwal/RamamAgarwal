@@ -1,5 +1,5 @@
 <!-- Custom header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&text=Ramam%20Agarwal&fontAlign=50&fontAlignY=40&color=0:00c853,100:64dd17&fontColor=ffffff&desc=ML%20Engineer%20%7C%20AI%20Systems%20%7C%20GenAI%20Builder&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=venom&height=260&text=Ramam%20Agarwal&fontAlign=50&fontAlignY=40&color=0:00c853,100:64dd17&fontColor=ffffff&desc=ML%20Engineer%20%7C%20AI%20Systems%20%7C%20GenAI%20Builder&descAlign=50&descAlignY=65)
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
