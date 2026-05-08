@@ -78,4 +78,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=blue-green&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF&icon_color=00FFAA&border_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=blue-green&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF&border_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=blue-green&hide_border=true)
