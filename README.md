@@ -74,8 +74,8 @@
 
 ## 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=RamamAgarwal&theme=blue-green&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=RamamAgarwal&theme=blue-green&hide_border=true&background=0D1117)
 
-![](https://github-readme-stats-fast.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamamAgarwal&show_icons=true&theme=blue-green&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF&icon_color=00FFAA&border_color=0D1117)
 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamamAgarwal&layout=compact&theme=blue-green&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF&border_color=0D1117)
