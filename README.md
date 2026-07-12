@@ -26,7 +26,7 @@
   <a href="https://www.codechef.com/users/ramam123" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" alt="CodeChef" height="30"/>
   </a>
-  <a href="https://leetcode.com/Ramam_Agarwal/" target="_blank">
+  <a href="https://leetcode.com/Ram_1102/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
   </a>
   <a href="https://codeforces.com/profile/ramamagarwal1234" target="_blank">
