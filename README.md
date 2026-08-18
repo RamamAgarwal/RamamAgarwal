@@ -8,7 +8,7 @@
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ramamagarwal&label=Profile%20views&color=00c853&style=for-the-badge" alt="ramamagarwal" />
+  <img src="https://komarev.com/ghpvc/?username=RamamAgarwal&label=Profile%20views&color=00c853&style=for-the-badge" alt="ramamagarwal" />
 </p>
 
 ## 🌐 Socials:
